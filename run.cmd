@@ -1,0 +1,1 @@
+mvnw package & java -jar target/car-charging-store-0.0.1-SNAPSHOT.jar
